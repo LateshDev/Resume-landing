@@ -53,22 +53,20 @@ md
 
 ---
 
-# 📂 Project Structure
+## 📁 Project Structure
 
-text
-ResumeFlow/
-
-│── index.html
-│── style.css
-│── script.js
-│── login.html
-│── register.html
-│── auth.css
-│── README.md
-│
+```text
+Resume-landing/
+├── index.html
+├── style.css
+├── script.js
+├── login.html
+├── register.html
+├── auth.css
+├── README.md
 └── images/
-    └── preview.png
-
+    └── screenshot.png
+```
 
 ---
 
