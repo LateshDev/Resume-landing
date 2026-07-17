@@ -14,8 +14,6 @@ https://lateshdev.github.io/Resume-landing/
 
 ## 📷 Project Preview
 
-> Add your landing page screenshot inside the images folder and update the image path below.
-
 
 ![Resume Preview](screenshot.png)
 
