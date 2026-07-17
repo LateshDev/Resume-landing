@@ -16,8 +16,8 @@ https://lateshdev.github.io/Resume-landing/
 
 > Add your landing page screenshot inside the images folder and update the image path below.
 
-md
-![ResumeFlow Preview](images/screenshot.png)
+
+![Resume Preview](screenshot.png)
 
 ---
 
