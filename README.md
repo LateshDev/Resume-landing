@@ -119,7 +119,7 @@ Future updates will include backend integration and AI-powered resume generation
 
 GitHub: https://github.com/LateshDev
 
-LinkedIn: https://www.linkedin.com/in/latesh-padaliya-85353a362/
+LinkedIn: https://www.linkedin.com/in/latesh-padaliya
 
 ---
 
