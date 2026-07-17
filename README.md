@@ -35,10 +35,6 @@ md
 - 📢 Call-to-Action section
 - 📩 Newsletter subscription
 - 🔗 Login & Register pages
-- 📜 Multi-column footer
-- ⚡ Smooth scrolling navigation
-- ⬆️ Scroll-to-top button
-- 🖱️ Hover animations
 - 💻 Clean and semantic HTML structure
 
 ---
